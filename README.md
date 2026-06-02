@@ -52,7 +52,7 @@ trivy image devsecops-app:test
 ## API Endpoints
 | Endpoint | Description |
 |----------|-------------|
-| / | Main app |
+| app/ | Main app |
 | /health | Health check |
 | /security | Security status |
 
