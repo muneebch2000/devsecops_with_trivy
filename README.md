@@ -66,5 +66,5 @@ trivy image devsecops-app:test
 - Trivy vulnerability scanning
 - Security gates in CI/CD pipeline
 - Docker image security
-- GitHub Actions automation
+- GitHub Actions automationSSSS
 - Shift-left security
